@@ -1,2 +1,2 @@
 # Graph.it
-your trust little grapher
+your trusty little grapher
